@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Tutorial Belajar ReactJs",
+        "tags": [
+            "reactjs",
+            "frontend"
+        ],
+        "date": "2024-01-01",
+        "isNew": true
+    },
+    {
+        "title": "Tutorial Belajar Tailwind",
+        "tags": [
+            "css",
+            "frontend"
+        ],
+        "date": "2024-01-02",
+        "isNew": false
+    },
+    {
+        "title": "Tutorial Belajar ExpressJs",
+        "tags": [
+            "javaScript",
+            "backend"
+        ],
+        "date": "2024-01-03",
+        "isNew": false
+    }
+]
